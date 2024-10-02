@@ -1,0 +1,43 @@
+/* This is a css comment */
+
+/* Select by element TYPE*/
+p {
+    color:rgb(255, 132, 0);
+}
+
+h1, h2, h3 {
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+/* Select by CLASS name*/
+.border {
+    border : 2px solid rgb(255, 132, 0); 
+    text-align: center;
+    background-color: yellow;
+}
+
+
+/* Select by ID name (unique) */
+#intro {
+    background-color: gainsboro;
+}
+
+/* Select by element TYPE*/
+li {
+    color: rgb(16, 147, 170);
+}
+
+/* Select by element TYPE*/
+li {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*Properties: colors and typography */
+strong {
+    color: orangered;
+    background-color:rgb(225, 255, 0);
+    font-weight: 200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
